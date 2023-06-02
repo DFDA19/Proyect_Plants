@@ -1,0 +1,51 @@
+nombre,familia,genero,orden,sustrato_ph
+Rose,Rosaceae,Rosa,Magnoliopsida,pH 6.0-7.0
+Orchid,Orchidaceae,Orchidaceae,Liliopsida,pH 5.5-6.5
+Tomato,Solanaceae,Solanum,Magnoliopsida,pH 6.0-7.0
+Sunflower,Asteraceae,Helianthus,Magnoliopsida,pH 6.0-7.5
+Lavender,Lamiaceae,Lavandula,Magnoliopsida,pH 6.0-8.0
+Fern,Polypodiaceae,Polypodium,Polypodiopsida,pH 5.0-6.0
+Ficus,Moraceae,Ficus,Magnoliopsida,pH 6.0-7.5
+Jade Plant,Crassulaceae,Crassula,Magnoliopsida,pH 6.0-7.5
+Tulip,Liliaceae,Tulipa,Liliopsida,pH 6.0-7.0
+Cactus,Cactaceae,Opuntia,Magnoliopsida,pH 5.5-7.0
+Peony,Paeoniaceae,Paeonia,Magnoliopsida,pH 6.0.-7.5
+Calla Lily,Araceae,Zantedeschia,Liliopsida,pH 6.0-7.5
+Geranium,Geraniaceae,Pelargonium,Magnoliopsida,pH 6.0-7.5
+Carnation,Caryophyllaceae,Dianthus,Magnoliopsida,pH 6.0-7.5
+Mint,Lamiaceae,Mentha,Magnoliopsida,pH 6.0-7.5
+Lily,Liliaceae,Lilium,Liliopsida,pH 5.5-6.5
+Basil,Lamiaceae,Ocimum,Magnoliopsida,pH 6.0-7.5
+Snake Plant,Asparagaceae,Sansevieria,Liliopsida,pH 6.0-7.5
+Anthurium,Araceae,Anthurium,Liliopsida,pH 5.5-6.5
+Hydrangea,Hydrangeaceae,Hydrangea,Magnoliopsida,pH 5.0-6.0
+Chrysanthemum,Asteraceae,Chrysanthemum,Magnoliopsida,pH 6.0-7.5
+Aloe Vera,Asphodelaceae,Aloe,Liliopsida,pH 6.0-7.0
+Peperomia,Piperaceae,Peperomia,Magnoliopsida,pH 6.0-7.5
+Rosemary,Lamiaceae,Rosmarinus,Magnoliopsida,pH 6.0-7.5
+Strawberry,Rosaceae,Fragaria,Magnoliopsida,pH 5.5-6.5
+African Violet,Gesneriaceae,Saintpaulia,Magnoliopsida,pH 5.5-6.5
+Begonia,Begoniaceae,Begonia,Magnoliopsida,pH 5.5-7.0
+Marigold,Asteraceae,Calendula,Magnoliopsida,pH 6.0-7.0
+Tree Aloe,Asphodelaceae,Aloe,Liliopsida,pH 6.0-7.5
+Dahlia,Asteraceae,Dahlia,Magnoliopsida,pH 6.0-7.5
+Gazania,Asteraceae,Gazania,Magnoliopsida,pH 6.0-7.5
+Ivy,Araliaceae,Hedera,Magnoliopsida,pH 6.0-7.5
+Croton,Euphorbiaceae,Codiaeum,Magnoliopsida,pH 6.0-7.5
+Marigold,Asteraceae,Calendula,Magnoliopsida,pH 6.0-7.0
+Chrysanthemum,Asteraceae,Chrysanthemum,Magnoliopsida,pH 6.0-7.5
+Hydrangea,Hydrangeaceae,Hydrangea,Magnoliopsida,pH 5.0-6.0
+Geranium,Geraniaceae,Pelargonium,Magnoliopsida,pH 6-7.5.0
+Petunia,Solanaceae,Petunia,Magnoliopsida,pH 6.0-7.0
+Climbing Hydrangea,Hydrangeaceae,Hydrangea,Magnoliopsida,pH 5.0-6.0
+Jade Plant,Crassulaceae,Crassula,Magnoliopsida,pH 6.0-7.5
+Sea Lavender,Plumbaginaceae,Limonium,Magnoliopsida,pH 6.0-8.0
+Alder,Betulaceae,Alnus,Magnoliopsida,pH 6.0-7.0
+Eucalyptus,Myrtaceae,Eucalyptus,Magnoliopsida,pH 5.5-7.5
+Venus Flytrap,Droseraceae,Dionaea,Magnoliopsida,pH 4.0-5.0
+Water Lily,Nymphaeaceae,Nymphaea,Magnoliopsida,pH 6.0-8.0
+Spider Plant,Chlorophytum,Magnoliopsida,pH 6.0-7.5
+Catnip,Lamiaceae,Nepeta,Magnoliopsida,pH 6.0-7.5
+Pansy,Violaceae,Viola,Magnoliopsida,pH 6.0-7.0
+Swedish Ivy,Plectranthus,Lamiaceae,Magnoliopsida,pH 6.0-7.5
+Boston Fern,Polypodiaceae,Nephrolepis,Polypodiopsida,pH 5.5-6.5

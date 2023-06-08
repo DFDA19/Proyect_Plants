@@ -1,6 +1,6 @@
 # Proyect_Plants
 
-## Proyecto de Recomendador de Plantas
+## Proyecto Plants to Plant
 
 Este proyecto es un recomendador de plantas que utiliza parámetros proporcionados por el usuario para encontrar la planta que mejor se adapte a su estilo de vida. Se basa en datos de diferentes plantas, como su nombre, familia, género, orden, frecuencia de riego y si son plantas de interior o exterior. También ofrece información sobre la compatibilidad de las plantas según su pH para ser plantadas juntas.
 

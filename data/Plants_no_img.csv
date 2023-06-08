@@ -1,0 +1,80 @@
+,Name,Family,Genus,Order,Plant pH,Suitable Soil pH,Placement,Watering Frequency,Region
+0,Jasmine,Oleaceae,Jasminum,Lamiales,6.6,4.9-8.3,Outdoor,regularly (2-3 per week),Asia
+1,Curcuma caesia,Zingiberaceae,Curcuma,Zingiberales,5.5,4.5-6.5,Outdoor,regularly (2 per week),Asia
+2,Curry Tree,Rutaceae,Murraya,Sapindales,5.8,5.6-6.3,Outdoor,regularly (2 per week),Asia
+3,Indian gooseberry,Phyllanthaceae,Phyllanthus,Malpighiales,8.0,6.5-9.5,Outdoor,regularly (2-3 per week),Asia
+4,Hibiscus,Malvaceae,Hibiscus,Malvales,6.0,5.5-6.5,Outdoor,regularly (1-2 per week),Asia
+5,Rose apple,Myrtaceae,Syzygium,Myrtales,6.0,5.5-6.5,Outdoor,regularly (1-2 per week),Asia
+6,Passiflora incarnata (Purple),Passifloraceae,Passiflora,Malpighiales,6.8,6.1-7.5,Outdoor,regularly (1-2 per week),North America
+7,White-fleshed pitahaya,Cactaceae,Selenicereus,Caryophyllales,6.0,5.5-6.5,Outdoor,regularly (1-2 per week),South America
+8,Chrysanthemums,Asteraceae,Chrysanthemum,Asterales,6.0,6.5-7.0,Outdoor,regularly (2-3 per week),Asia
+9,Mentha,Mints,Mentha,Lamiales,6.7,6.0-7.5,Outdoor,regularly (2-3 per week),Europe
+10,Sapodilla,Sapotaceae,Manilkara,Heathers and allies,7.0,6.0-8.0,Outdoor,regularly (1-2 per week),North America
+11,Snake gourd,Cucurbitaceae,Trichosanthes,Cucurbitales,6.5,6.0-7.0,Outdoor,regularly (2-3 per week),Asia
+12,Key lime,Rutaceae,Citrus,Sapindales,6.5,5.5-7.5,Outdoor,regularly (2-3 per week),North America
+13,Cucumber,Cucurbitaceae,Cucumis,Cucurbitales,7.2,6.0-8.5,Outdoor,regularly (2-3 per week),Asia
+14,Trailing arbutus,Ericaceae,Epigaea,Heathers and allies,6.5,6.1-6.8,Outdoor,regularly (2-3 per week),North America
+15,Betel,Piperaceae,Pepper plants,Piperales,7.2,5.6-8.2,Outdoor,regularly (2-3 per week),Asia
+16,Wild sweetsop,Annonaceae,Annona reticulata,Magnoliales,6.9,5.0-8.0,Outdoor,regularly (2-3 per week),South America
+17,Jack tree,Moraceae,Artocarpus,Rosales,6.5,6.0-6.5,Outdoor,regularly (2-3 per week),Asia
+18,Cymbopogon citratus,Poaceae,Fress Lemongrass,Poales,6.2,5.0-5.8,Outdoor,regularly (2-3 per week),Asia
+19,Amorphophallus paeoniifolius,Araceae,Amorphophallus,Alismatales,5.4,5.5-7.0,Outdoor,regularly (1-2 per week),Asia
+20,Chamaecostus cuspidatus,Costaceae,Chamaecostus,Zingiberales,6.2,6.5-7.5,Outdoor,regularly (2-3 per week),Asia
+21,Nyctanthes arbor-tristis,Oleaceae,Nyctanthes,Lamiales,7.0,5.6-6.0,Outdoor,regularly (2-3 per week),Asia
+22,Amaranthus,Amarnathaceae,Amaranthus;L,Caryophyllales,5.8,4.5-8.0,Outdoor,regularly (2-3 per week),America
+23,Calabash,Cucurbitaceae,Lagenaria,Cucurbitales,6.2,6.5-7.5,Outdoor,periodically (1 per week),Africa
+24,Leonotis nepetifolia,Lamiaceae,Leonotis,Lamiales,5.8,4.6-6.5,Outdoor,regularly (2-3 per week),Africa
+25,Spine gourd,Cucurbits,Momordica,Cucurbitales,7.0,6.0-7.0,Outdoor,regularly (2-3 per week),Asia
+26,Clitoria ternatea,Fabaceae,Clitoria,Fabales,5.5,5.5-8.9,Outdoor,regularly (2-3 per week),Asia
+27,Ziziphus mauritiana,Rhamnaceae,Jujube,Rosales,6.5,8.7-9.2,Outdoor,periodically (1 per week),Africa
+28,Tinospora cordifolia,Menispermaceae,Tinospora,Ranunculales,7.2,6.2-7.6,Outdoor,regularly (2-3 per week),Asia
+29,Moringa oleifera,Moringaceae,Moringa,Brassicales,9.2,4.5-8.5,Outdoor,regularly (2-3 per week),Asia
+30,Mangifera indica,Anacardiaceae,Mangifera,Sapindales,6.9,5.5-7.5,Outdoor,regularly (2-3 per week),Asia
+31,Echinochloa colona,Poaceae,Barnyard grasses,Poales,6.5,5.5-6.5,Outdoor,occasionally (no watering needed),Asia
+32,Ocimum tenuiflorum,Lamiaceae,Basil,Lamiales,6.5,6.0-7.5,Outdoor,regularly (2-3 per week),Asia
+33,Ajwain,Apiaceae,Trachyspermum,Apiales,6.0,6.5-7.5,Outdoor,periodically (1 per 10-14 days),Asia
+34,Camellia sinensis,Theaceae,Camellia,Ericales,6.7,4.2-5.6,Outdoor,regularly (2-3 per week),Asia
+35,Aegle marmelos,Rutaceae,"Aegle,Correa",Sapindales,7.0,5.0-10.0,Outdoor,periodically (1 per 7-10 days),Asia
+36,Epipremnum aureum,Araceae,Epipremnum,Alismatales,4.2,6.1-6.5,Indoor,periodically (1 per week),Asia
+37,Orchid,Orchidaceae,Orchidaceae,Liliopsida,6.3, 5.5-6.5,Indoor,periodically (1 per week),Worldwide
+38,Tomato,Solanaceae,Solanum,Magnoliopsida,6.0, 6.0-7.0,Outdoor,regularly (2-3 per week),America
+39,Sunflower,Asteraceae,Helianthus,Magnoliopsida,6.5, 6.0-7.5,Outdoor,periodically (1 per 7-10 days),Worldwide
+40,Lavender,Lamiaceae,Lavandula,Magnoliopsida,6.7, 6.0-8.0,Outdoor,periodically (1 per 7-10 days),Worldwide
+41,Fern,Polypodiaceae,Polypodium,Polypodiopsida,7.0, 5.0-6.0,Indoor,regularly (1-2 per week),Worldwide
+42,Ficus,Moraceae,Ficus,Magnoliopsida,5.5, 6.0-7.5,Indoor,periodically (1 per week),Worldwide
+43,Jade Plant,Crassulaceae,Crassula,Magnoliopsida,6.7, 6.0-7.5,Indoor,periodically (1 per 10-14 days),Africa
+44,Tulip,Liliaceae,Tulipa,Liliopsida,6.7, 6.0-7.0,Outdoor,regularly (1-2 per week),Europe
+45,Cactus,Cactaceae,Opuntia,Magnoliopsida,6.5, 5.5-7.0,Both,periodically (1 per 2-4 weeks),Americas
+46,Peony,Paeoniaceae,Paeonia,Magnoliopsida,6.2, 6.0.-7.5,Outdoor,regularly (1-2 per week),Worldwide
+47,Calla Lily,Araceae,Zantedeschia,Liliopsida,6.7, 6.0-7.5,Both,periodically (1 per week),Africa
+48,Geranium,Geraniaceae,Pelargonium,Magnoliopsida,6.7, 6.0-7.5,Both,periodically (1 per 5-7 days),Africa
+49,Carnation,Caryophyllaceae,Dianthus,Magnoliopsida,6.7, 6.0-7.5,Both,periodically (1 per week),Worldwide
+50,Lily,Liliaceae,Lilium,Liliopsida,6.7, 5.5-6.5,Both,periodically (1 per week),Worldwide
+51,Basil,Lamiaceae,Ocimum,Magnoliopsida,6.0, 6.0-7.5,Indoor,periodically (1 per week),Worldwide
+52,Snake Plant,Asparagaceae,Sansevieria,Liliopsida,6.7, 6.0-7.5,Indoor,periodically (1 per 2-4 weeks),Africa
+53,Anthurium,Araceae,Anthurium,Liliopsida,6.7, 5.5-6.5,Indoor,periodically (1 per week),America
+54,Hydrangea,Hydrangeaceae,Hydrangea,Magnoliopsida,6.0, 5.0-6.0,Outdoor,regularly (3 per week),Worldwide
+55,Aloe Vera,Asphodelaceae,Aloe,Liliopsida,5.5, 6.0-7.0,Indoor,periodically (1 per 3-4 weeks),Africa
+56,Peperomia,Piperaceae,Peperomia,Magnoliopsida,6.5, 6.0-7.5,Indoor,periodically (1 per 2-3 weeks),South America
+57,Rosemary,Lamiaceae,Rosmarinus,Magnoliopsida,6.7, 6.0-7.5,Both,periodically (1 per 7-10 days),Worldwide
+58,Strawberry,Rosaceae,Fragaria,Magnoliopsida,6.7, 5.5-6.5,Outdoor,regularly (3 per week),Worldwide
+59,African Violet,Gesneriaceae,Saintpaulia,Magnoliopsida,6.0, 5.5-6.5,Indoor,periodically (1 per week),Africa
+60,Begonia,Begoniaceae,Begonia,Magnoliopsida,6.0, 5.5-7.0,Both,periodically (1 per week),Worldwide
+61,Marigold,Asteraceae,Calendula,Magnoliopsida,6.2, 6.0-7.0,Outdoor,periodically (1 per week),Worldwide
+62,Tree Aloe,Asphodelaceae,Aloe,Liliopsida,6.5, 6.0-7.5,Outdoor,periodically (1 per 2-3 weeks),Africa
+63,Dahlia,Asteraceae,Dahlia,Magnoliopsida,6.7, 6.0-7.5,Outdoor,periodically (1 per week),America
+64,Gazania,Asteraceae,Gazania,Magnoliopsida,6.7, 6.0-7.5,Outdoor,periodically (1 per 2-3 weeks),Africa
+65,Ivy,Araliaceae,Hedera,Magnoliopsida,6.7, 6.0-7.5,Both,periodically (1 per week),Worldwide
+66,Croton,Euphorbiaceae,Codiaeum,Magnoliopsida,6.7, 6.0-7.5,Both,regularly (1 per week),Worldwide
+67,Geranium,Geraniaceae,Pelargonium,Magnoliopsida,6.7, 6-7.5.0,Both,periodically (1 per 5-7 days),Africa
+68,Petunia,Solanaceae,Petunia,Magnoliopsida,6.7, 6.0-7.0,Both,periodically (1 per week),America
+69,Climbing Hydrangea,Hydrangeaceae,Hydrangea,Magnoliopsida,6.7, 5.0-6.0,Outdoor,regularly (2-3 per week),Asia
+70,Sea Lavender,Plumbaginaceae,Limonium,Magnoliopsida,6.5, 6.0-8.0,Outdoor,periodically (1 per week),Europe
+71,Alder,Betulaceae,Alnus,Magnoliopsida,5.5, 6.0-7.0,Outdoor,periodically (1 per week),Worldwide
+72,Eucalyptus,Myrtaceae,Eucalyptus,Magnoliopsida,7.0, 5.5-7.5,Outdoor,periodically (1 per 2-3 weeks),Australia
+73,Venus Flytrap,Droseraceae,Dionaea,Magnoliopsida,6.5, 4.0-5.0,Indoor,constantly (always need wet soil),North America
+74,Water Lily,Nymphaeaceae,Nymphaea,Magnoliopsida,6.5, 6.0-8.0,Outdoor,constantly (grow on water),Worldwide
+75,Catnip,Lamiaceae,Nepeta,Magnoliopsida,4.5, 6.0-7.5,Both,periodically (1 per week),Europe
+76,Pansy,Violaceae,Viola,Magnoliopsida,7.0, 6.0-7.0,Both,periodically (1 per week),Europe
+77,Swedish Ivy,Plectranthus,Lamiaceae,Magnoliopsida,6.7, 6.0-7.5,Indoor,periodically (1 per week),Africa
+78,Boston Fern,Polypodiaceae,Nephrolepis,Polypodiopsida,6.5, 5.5-6.5,Indoor,regularly (2-3 per week),Worldwide

@@ -91,7 +91,7 @@ def page_home():
     information to keep your plants healthy and thriving. No more buying plants solely for their decorative 
     purposes—our app ensures that you choose plants that you can care for effortlessly.''')
     
-    st.header('Take a quick scoope of our plants catalog')
+    st.header('Take a brief look at our plants catalog.')
 
     
 
@@ -144,7 +144,7 @@ def catalog(dataframe):
 
 def Find_your_Plant(dataframe):
     
-    st.header('Try this filters to find the most accurate plant for your lifestyle')
+    st.header('Try this filters to find the most accurate plant for your lifestyle:')
 
     # Filtro de pH
     ph_options = ['', 'Acidic', 'Neutral', 'Alkaline']

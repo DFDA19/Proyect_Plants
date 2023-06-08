@@ -241,7 +241,7 @@ def pr():
     st.write('\n')
 
     uploaded_photo = st.file_uploader('Upload Photo')
-    #camera_photo = st.camera_input('Take a photo')
+    camera_photo = st.camera_input('Take a photo')
 
 
     if uploaded_photo is not None:
@@ -257,7 +257,7 @@ def disease():
     st.subheader('Upload a photo of your plant to see what kind of disease it may have')
 
     uploaded_photo = st.file_uploader('Upload Photo')
-    #camera_photo = st.camera_input('Take a photo')
+    camera_photo = st.camera_input('Take a photo')
 
 
     if uploaded_photo is not None:
